@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @syed7-crypto
+/src/backend/database.py      @syed7-crypto
+/src/backend/routers/auth.py  @syed7-crypto
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @syed7-crypto
